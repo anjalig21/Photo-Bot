@@ -6,7 +6,7 @@ Created a Discord Bot that shows random images with the prompt !image {add words
 Currently being used my friends for various online games.
 
 ## Using the Bot (images of bot in use)
-![](pictures-of-bot/deca.png)
-![](pictures-of-bot/food.png)
-![](pictures-of-bot/food2.png)
+![](pictures-of-bot/deca.png&layout=compact)
+![](pictures-of-bot/food.png&layout=compact)
+![](pictures-of-bot/food2.png&layout=compact)
 
