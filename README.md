@@ -10,5 +10,3 @@ Currently being used my friends for various online games.
 ![](pictures-of-bot/Screen Shot 2020-12-24 at 3.38.59 AM.png)
 ![](pictures-of-bot/Screen Shot 2020-12-24 at 3.39.59 AM.png)
 
-![alt text](https://github.com/[anjalig21]/[photo-bot]/blob/main/pictures-of-bot/Screen Shot 2020-12-24 at 3.38.48 AM.png?raw=true)
-
