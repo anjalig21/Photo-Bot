@@ -1,6 +1,6 @@
 // General Initializations 
 require('dotenv').config();
-const func_img = require('./func_img.js')
+const func_img = require('./Functions/func_img.js')
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
